@@ -1,4 +1,4 @@
-#Twitter Clone With Next.js, Tailwind.Css, Sanity CMS, React Toast and more 
+# Twitter Clone With Next.js, Tailwind.Css, Sanity CMS, React Toast and more 
 
 Check out the demo!
 
